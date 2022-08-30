@@ -10,5 +10,8 @@ package com.niit.jdp;
 public class TransmissionImpl {
     public static void main(String[] args) {
 
+        Transmission transmission = new Transmission();
+        Transmission transmission1 = new Manual();
+
     }
 }
