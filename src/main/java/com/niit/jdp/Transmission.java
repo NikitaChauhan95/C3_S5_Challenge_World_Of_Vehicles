@@ -8,6 +8,7 @@
 package com.niit.jdp;
 
 public class Transmission {
+    String typeOfTransmission;
     String modelNumber;
     int forwardGear;
     double gearRatio;
@@ -15,9 +16,16 @@ public class Transmission {
     public Transmission() {
     }
 
-    public Transmission(String modelNumber, int forwardGear, double gearRatio) {
+    public Transmission(String typeOfTransmission, String modelNumber, int forwardGear, double gearRatio) {
+        this.typeOfTransmission = typeOfTransmission;
         this.modelNumber = modelNumber;
         this.forwardGear = forwardGear;
         this.gearRatio = gearRatio;
+    }
+
+    void showSpecs(){
+        System.out.println("Transmission Type : " +typeOfTransmission);
+        System.out.println("Transmission Model Number : " +modelNumber);
+        System.out.println("Key Specifications : " +forwardGear +" " +gearRatio);
     }
 }

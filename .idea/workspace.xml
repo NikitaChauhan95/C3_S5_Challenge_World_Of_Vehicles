@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da50894d-90d3-414b-9c87-e02fb161ee91" name="Changes" comment="created TransmissionImpl.java class">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomatedManualTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomatedManualTransmission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticCVT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticCVT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticDCT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticDCT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Manual.java" afterDir="false" />
+    <list default="true" id="da50894d-90d3-414b-9c87-e02fb161ee91" name="Changes" comment="created parameterised constructors">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Transmission.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +100,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661855835098</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="created fields for transmission class">
+      <created>1661856243632</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661856243632</updated>
+    </task>
+    <task id="LOCAL-00009" summary="created constructors without arguments">
+      <created>1661856289347</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661856289347</updated>
+    </task>
+    <task id="LOCAL-00010" summary="created parameterised constructors">
+      <created>1661856319835</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661856319835</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +143,9 @@
     <MESSAGE value="created AutomaticCVT.java class" />
     <MESSAGE value="created AutomaticDCT.java class" />
     <MESSAGE value="created TransmissionImpl.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created TransmissionImpl.java class" />
+    <MESSAGE value="created fields for transmission class" />
+    <MESSAGE value="created constructors without arguments" />
+    <MESSAGE value="created parameterised constructors" />
+    <option name="LAST_COMMIT_MESSAGE" value="created parameterised constructors" />
   </component>
 </project>
