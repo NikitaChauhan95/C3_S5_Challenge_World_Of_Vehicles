@@ -8,4 +8,6 @@
 package com.niit.jdp;
 
 public class AutomatedManualTransmission extends Transmission{
+
+
 }

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da50894d-90d3-414b-9c87-e02fb161ee91" name="Changes" comment="created parameterised constructors">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Transmission.java" afterDir="false" />
+    <list default="true" id="da50894d-90d3-414b-9c87-e02fb161ee91" name="Changes" comment="added show specs method to display details">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomatedManualTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomatedManualTransmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Manual.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661856319835</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added show specs method to display details">
+      <created>1661856845946</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661856845946</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +154,7 @@
     <MESSAGE value="created fields for transmission class" />
     <MESSAGE value="created constructors without arguments" />
     <MESSAGE value="created parameterised constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value="created parameterised constructors" />
+    <MESSAGE value="added show specs method to display details" />
+    <option name="LAST_COMMIT_MESSAGE" value="added show specs method to display details" />
   </component>
 </project>
