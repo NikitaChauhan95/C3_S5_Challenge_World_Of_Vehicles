@@ -7,7 +7,5 @@
 
 package com.niit.jdp;
 
-public class Transmission {
-
-
+public class Manual {
 }
