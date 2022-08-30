@@ -7,5 +7,5 @@
 
 package com.niit.jdp;
 
-public class AutomaticCVT {
+public class AutomaticCVT extends Transmission{
 }

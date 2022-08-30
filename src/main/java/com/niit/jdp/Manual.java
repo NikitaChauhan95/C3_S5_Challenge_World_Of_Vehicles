@@ -7,6 +7,6 @@
 
 package com.niit.jdp;
 
-public class Manual {
+public class Manual extends Transmission{
 
 }

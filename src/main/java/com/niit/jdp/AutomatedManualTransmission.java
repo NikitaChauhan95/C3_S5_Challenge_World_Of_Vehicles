@@ -7,5 +7,5 @@
 
 package com.niit.jdp;
 
-public class AutomatedManualTransmission {
+public class AutomatedManualTransmission extends Transmission{
 }

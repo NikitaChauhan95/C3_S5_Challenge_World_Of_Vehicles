@@ -7,5 +7,5 @@
 
 package com.niit.jdp;
 
-public class AutomaticDCT {
+public class AutomaticDCT extends Transmission{
 }

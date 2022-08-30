@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da50894d-90d3-414b-9c87-e02fb161ee91" name="Changes" comment="created Manual.java class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomatedManualTransmission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticCVT.java" afterDir="false" />
+    <list default="true" id="da50894d-90d3-414b-9c87-e02fb161ee91" name="Changes" comment="created TransmissionImpl.java class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomatedManualTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomatedManualTransmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticCVT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticCVT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticDCT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticDCT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Manual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Transmission.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +83,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661855520351</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created AutomaticCVT.java class">
+      <created>1661855726707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661855726707</updated>
+    </task>
+    <task id="LOCAL-00006" summary="created AutomaticDCT.java class">
+      <created>1661855777790</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661855777790</updated>
+    </task>
+    <task id="LOCAL-00007" summary="created TransmissionImpl.java class">
+      <created>1661855835098</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661855835098</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +123,9 @@
     <MESSAGE value="changed the jdk version from 18 to 11" />
     <MESSAGE value="created Transmission.java class" />
     <MESSAGE value="created Manual.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created Manual.java class" />
+    <MESSAGE value="created AutomaticCVT.java class" />
+    <MESSAGE value="created AutomaticDCT.java class" />
+    <MESSAGE value="created TransmissionImpl.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created TransmissionImpl.java class" />
   </component>
 </project>

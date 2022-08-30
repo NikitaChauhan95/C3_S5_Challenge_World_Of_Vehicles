@@ -8,6 +8,9 @@
 package com.niit.jdp;
 
 public class Transmission {
+    String modelNumber;
+    int forwardGear;
+    double gearRatio;
 
 
 }
