@@ -9,5 +9,10 @@ package com.niit.jdp;
 
 public class AutomatedManualTransmission extends Transmission{
 
+    public AutomatedManualTransmission() {
+    }
 
+    public AutomatedManualTransmission(String typeOfTransmission, String modelNumber, int forwardGear, double gearRatio) {
+        super(typeOfTransmission, modelNumber, forwardGear, gearRatio);
+    }
 }
