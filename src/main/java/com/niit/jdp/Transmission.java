@@ -12,5 +12,8 @@ public class Transmission {
     int forwardGear;
     double gearRatio;
 
+    public Transmission() {
+    }
+
 
 }
