@@ -15,5 +15,9 @@ public class Transmission {
     public Transmission() {
     }
 
-
+    public Transmission(String modelNumber, int forwardGear, double gearRatio) {
+        this.modelNumber = modelNumber;
+        this.forwardGear = forwardGear;
+        this.gearRatio = gearRatio;
+    }
 }
