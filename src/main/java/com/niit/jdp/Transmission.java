@@ -23,6 +23,9 @@ public class Transmission {
         this.gearRatio = gearRatio;
     }
 
+    public Transmission(String modelNumber) {
+    }
+
     public String getTypeOfTransmission() {
         return typeOfTransmission;
     }
@@ -55,9 +58,9 @@ public class Transmission {
         this.gearRatio = gearRatio;
     }
 
-    void showSpecs(){
-        System.out.println("Transmission Type : " +typeOfTransmission);
-        System.out.println("Transmission Model Number : " +modelNumber);
-        System.out.println("Key Specifications : " +forwardGear +" " +gearRatio);
+    void showSpecs() {
+       // System.out.println("Transmission Type : " + typeOfTransmission);
+        //System.out.println("Transmission Model Number : " + modelNumber);
+        //System.out.println("Key Specifications :");
     }
 }

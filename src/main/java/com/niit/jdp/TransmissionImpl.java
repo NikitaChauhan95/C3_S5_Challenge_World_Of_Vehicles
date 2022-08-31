@@ -9,9 +9,16 @@ package com.niit.jdp;
 
 public class TransmissionImpl {
     public static void main(String[] args) {
+        Manual manual = new Manual("MP4");
+        AutomatedManualTransmission automatedManualTransmission = new AutomatedManualTransmission("AMTP4");
+        AutomaticDCT automaticDCT = new AutomaticDCT("DCT8");
+        AutomaticCVT automaticCVT = new AutomaticCVT("CVT6");
 
-        Transmission transmission = new Transmission();
-        Transmission transmission1 = new Manual();
+
+
+
+
+
 
     }
 }

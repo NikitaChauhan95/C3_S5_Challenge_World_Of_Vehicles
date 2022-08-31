@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da50894d-90d3-414b-9c87-e02fb161ee91" name="Changes" comment="&#10;created main method in TransmissionImpl.java class">
+    <list default="true" id="da50894d-90d3-414b-9c87-e02fb161ee91" name="Changes" comment="created getter and setter method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomatedManualTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomatedManualTransmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticCVT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticCVT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticDCT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AutomaticDCT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Manual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Transmission.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/TransmissionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/TransmissionImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -183,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661857392602</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="created getter and setter method">
+      <created>1661857615280</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661857615280</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +228,7 @@
     <MESSAGE value="created parameterised constructors for AutomaticCVT.java class" />
     <MESSAGE value="created parameterised constructors for AutomaticDCT.java class" />
     <MESSAGE value="&#10;created main method in TransmissionImpl.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;created main method in TransmissionImpl.java class" />
+    <MESSAGE value="created getter and setter method" />
+    <option name="LAST_COMMIT_MESSAGE" value="created getter and setter method" />
   </component>
 </project>
